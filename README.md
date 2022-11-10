@@ -6,8 +6,8 @@
 
     2 -  Classification + localization on images by transfer learning and fine-tuning ResNet50.
 
-    3 -  Classification + localization on images training a Vision Transformer model for visualize attention.  (**in progress**)
+    3 -  Classification + localization on images training a Vision Transformer model for visualize attention.  (** in progress **)
     
-    4 -  Object Detection on videos by transfer learning and fine-tuning a Detection Transformer.  (**in progress**)
+    4 -  Object Detection on videos by transfer learning and fine-tuning a Detection Transformer.  (** in progress **)
     
     5 -  Object Detection on videos by transfer learning and fine-tuning a YOLO (ou only look once) model.  (** in progress **)
