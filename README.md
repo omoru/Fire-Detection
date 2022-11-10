@@ -14,7 +14,7 @@
     
 Examples:
 
-![alt text](https://github.com/omoru/Fire-Detection/blob/main/images/cnn.PNG)
-
-
 ![alt text](https://github.com/omoru/Fire-Detection/blob/main/images/cnn2.PNG)
+
+
+![alt text](https://github.com/omoru/Fire-Detection/blob/main/images/cnn.PNG)
