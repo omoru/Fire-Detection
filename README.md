@@ -1,5 +1,8 @@
 # Fire-Detection
 
+![alt text](https://github.com/omoru/Fire-Detection/blob/main/images/intro.PNG)
+
+
 ## Detecting fire using different techniques of computer vision:
 
     1 -  Classification + localization on images training a CNN from scratch.
@@ -17,4 +20,4 @@ Examples:
 ![alt text](https://github.com/omoru/Fire-Detection/blob/main/images/cnn0.PNG)
 
 
-![alt text](https://github.com/omoru/Fire-Detection/blob/main/images/cn1.PNG)
+![alt text](https://github.com/omoru/Fire-Detection/blob/main/images/cnn1.PNG)
